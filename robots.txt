@@ -7,3 +7,5 @@ Disallow: /logout.cm
 Disallow: /shop_cart
 Disallow: /?mode*
 Sitemap: https://crew3xyz.github.io/sitemap.xml
+User-agent: Bingbot
+Crawl-delay: 4
